@@ -5,4 +5,4 @@
 # quick add + commit
 
 git add -A
-git commit -m="@${PWD##*/} $1"
+git commit -m "$1"
