@@ -13,6 +13,11 @@ Quick grab of upstream fork and a subsequent merge.
 
     > git get-fork [fork URL]
 
+### git lf
+Pretty-printed greped log.
+
+			> git lf [search term]
+
 ### git lg
 Pretty-printed commit log.
 
