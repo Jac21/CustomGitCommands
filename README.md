@@ -26,7 +26,7 @@ Pretty-printed commit log
 ### git log-branch
 Quick high-level overview of branch work
 
-		> git log-branch
+	> git log-branch
 
 ### git sync-fork
 Quick syncing of fork content
