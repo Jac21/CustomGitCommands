@@ -5,7 +5,8 @@
 # Quick grab of upstream fork and subsequent merge
 
 url=$1
-test -z $url && echo "ERROR: fork URL required" 1>&2 && exit 1
+
+if [[ -z ${url} ]]; then echo "ERROR: Fork URL is required" & exit 1; fi
 
 git remote add upstream $url
 git fetch upstream
