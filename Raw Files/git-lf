@@ -2,7 +2,7 @@
 #
 # git-lf
 #
-# quick log find using parsed arg
+# Pretty-printed grep-ed log
 
 term=$1
 test -z $term && echo "ERROR: Search term required" 1>&2 && exit 1

@@ -2,7 +2,7 @@
 #
 # git-get-fork
 #
-# quick grab of upstream fork and subsequent merge
+# Quick grab of upstream fork and subsequent merge
 
 url=$1
 test -z $url && echo "ERROR: fork URL required" 1>&2 && exit 1

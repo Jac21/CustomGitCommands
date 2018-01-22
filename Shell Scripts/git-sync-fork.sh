@@ -2,6 +2,6 @@
 #
 # git-sync-fork
 #
-# quick fork sync
+# Quick syncing of fork content
 
 git pull upstream master
