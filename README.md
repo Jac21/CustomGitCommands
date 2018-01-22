@@ -32,3 +32,8 @@ Quick high-level overview of branch work
 Quick syncing of fork content
 
     > git sync-fork
+
+### git weekly-report
+Quick log for a specified author, for the week prior to running the command
+
+    > git weekly-report [Author name]
