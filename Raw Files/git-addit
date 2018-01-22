@@ -2,10 +2,11 @@
 #
 # git-addit
 #
-# quick add + commit
+# Quick add and commit combination
 
-message=$1
-test -z $message && echo "ERROR: message required" 1>&2 && exit 1
+message="$*"
+
+if [[ -z ${message} ]]; then echo "ERROR: Commit message is required" & exit 1; fi
 
 git add -A
 git commit -m "$message"
