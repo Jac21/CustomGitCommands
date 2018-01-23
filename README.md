@@ -33,6 +33,11 @@ Quick high-level overview of remote branch work
 
 	> git log-remotes
 
+### git stash-partial
+Stash only a subset of files by add-ing files to staging, stashing, and finally resetting to continue your work unabated
+
+    > git stash-partial [File(s) to add]
+
 ### git sync-fork
 Quick syncing of fork content
 
