@@ -11,6 +11,7 @@
 	branches = branch -a
 	tags = tag
 	stashes = stash list
+	statuses = status -s
 
 [apply]
 	whitespace = nowarn
