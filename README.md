@@ -28,6 +28,11 @@ Quick high-level overview of branch work
 
 	> git log-branch
 
+### git log-remotes
+Quick high-level overview of remote branch work
+
+	> git log-remotes
+
 ### git sync-fork
 Quick syncing of fork content
 
