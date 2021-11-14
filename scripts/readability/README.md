@@ -1,4 +1,4 @@
-# Readable Commands
+# "Readable" Commands
 
 Inspired by http://gggritso.com/human-git-aliases
 
