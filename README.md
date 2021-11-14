@@ -1,6 +1,7 @@
 # CustomGitCommands
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![donate](https://img.shields.io/badge/%24-Buy%20me%20a%20coffee-ff69b4.svg)](https://www.buymeacoffee.com/jac21)
 
 ## Usage
 Just pop the raw files into wherever libexec\git-core is located on your machine within Git's AppData!
